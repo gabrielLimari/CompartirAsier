@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FragmnetEjercicioTarea_12_12</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tareas">Tareas</string>
+    <string name="tPendientes">1. Tareas pendientes</string>
+    <string name="tRealizadas">2. Tareas Realizadas</string>
+    <string name="tNueva">3. Nueva Tarea</string>
+    <string name="realizadas">Realizadas</string>
+    <string name="pendientes">Pendientes</string>
+    <string name="nueva_tarea">Nueva Tarea</string>
+    <string name="titulo">Título de la tarjeta</string>
+    <string name="descripcion">Descripción breve de la tarjeta</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="volver">Volver</string>
+</resources>
