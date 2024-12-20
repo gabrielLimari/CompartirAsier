@@ -21,7 +21,7 @@ import java.io.ObjectOutputStream;
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
-    private ArrayList<Tarea> tareas;
+    private ArrayList<Tarea> tareas = new ArrayList<>();
     Fragment fragment1; //fragmento inciaal
 
     @Override
